@@ -1,0 +1,18 @@
+1)enter 1st root node
+2)enter child node
+3)mention the parent
+4)enter second root node
+5)enter second child
+5)mention the parent
+now structure is created 
+
+we have to input this as a file into our code
+------------------------------------------------------------------
+we can set choices that can be detected by the code as to which is the parent and which is the child.
+suppose we set 'R'as root and 'C'as a child
+eg.R 2
+   R 3 this created 2 root nodes
+now if we want to add a child to the a particular node
+we mention its parent and the symbol 'C'
+eg.'C'                               2             3
+   (Symbol for child node)      (child value) (which parent you are adding it to)
